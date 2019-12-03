@@ -48,7 +48,7 @@
 		B151339823963E5400524131 /* PhoneAppProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhoneAppProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B151339C23963E5400524131 /* PhoneAppProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhoneAppProjectUITests.swift; sourceTree = "<group>"; };
 		B151339E23963E5400524131 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B15133AA23963F5000524131 /* AddController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AddController.swift; path = ../AddController.swift; sourceTree = "<group>"; };
+		B15133AA23963F5000524131 /* AddController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
