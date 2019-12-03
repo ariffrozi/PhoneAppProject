@@ -14,6 +14,7 @@
 		B151338723963E5400524131 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B151338523963E5400524131 /* LaunchScreen.storyboard */; };
 		B151339223963E5400524131 /* PhoneAppProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B151339123963E5400524131 /* PhoneAppProjectTests.swift */; };
 		B151339D23963E5400524131 /* PhoneAppProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B151339C23963E5400524131 /* PhoneAppProjectUITests.swift */; };
+		B15133AB23963F5000524131 /* AddController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B15133AA23963F5000524131 /* AddController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		B151339823963E5400524131 /* PhoneAppProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhoneAppProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B151339C23963E5400524131 /* PhoneAppProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhoneAppProjectUITests.swift; sourceTree = "<group>"; };
 		B151339E23963E5400524131 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B15133AA23963F5000524131 /* AddController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AddController.swift; path = ../AddController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		B151337B23963E5200524131 /* PhoneAppProject */ = {
 			isa = PBXGroup;
 			children = (
+				B15133AA23963F5000524131 /* AddController.swift */,
 				B151337C23963E5200524131 /* AppDelegate.swift */,
 				B151337E23963E5200524131 /* ViewController.swift */,
 				B151338023963E5200524131 /* Main.storyboard */,
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B15133AB23963F5000524131 /* AddController.swift in Sources */,
 				B151337F23963E5200524131 /* ViewController.swift in Sources */,
 				B151337D23963E5200524131 /* AppDelegate.swift in Sources */,
 			);
